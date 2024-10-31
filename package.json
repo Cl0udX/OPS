@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.6",
+    "plotly.js": "^2.35.2",
+    "react-plotly.js": "^2.6.0",
+    "xlsx": "^0.18.5"
+  }
+}
